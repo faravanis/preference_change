@@ -1,2 +1,2 @@
 # preference_change
-An Applied Framework for Preference Change
+A Relational Framework for Preference Change
